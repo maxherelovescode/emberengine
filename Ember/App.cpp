@@ -6,6 +6,8 @@ wxIMPLEMENT_APP(App);
 
 bool App::OnInit() {
 	MainFrame* mainFrame = new MainFrame("Ember Engine");
+	mainFrame->SetClientSize(800, 400);
+	mainFrame->Center();
 	mainFrame->Show();
 	return true;
 }
