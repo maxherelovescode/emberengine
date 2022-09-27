@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+Libraries\wxWidgets\lib\vc_lib
+Libraries\wxWidgets\lib\vc_x64_lib
+
 # User-specific files
 *.rsuser
 *.suo
