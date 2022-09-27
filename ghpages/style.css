@@ -1,6 +1,10 @@
 /* Imports */
 /* Font Imports */
 @import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* Actual Css */
 body {
     background-color: cornflowerblue;
     text-align: center;
@@ -9,6 +13,22 @@ h1 {
     font-family: 'Nabla', cursive;
     font-size: 100px;
 }
-a {
-    
+h2 {
+    font-family: 'Bungee Spice', cursive;
+    font-size: 40px;
+}
+a:link {
+    color: red;
+    font-style: italic;
+    text-decoration: none;
+}
+a:visited {
+    color: aqua;
+    text-decoration: none;
+}
+.info {
+    font-family: 'Roboto', sans-serif;
+}
+.downloads {
+    height: 70px;
 }
