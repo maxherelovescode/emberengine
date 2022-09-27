@@ -9,5 +9,5 @@ MainFrame::MainFrame(const wxString& title): wxFrame(nullptr, wxID_ANY, title) {
 
 	wxStaticText* staticText = new wxStaticText(backroundPanel, wxID_ANY, "Static Text - Not Editable", wxPoint(120, 150));
 
-	wxTextCtrl textCtrl = new wxTextCtrl
+	wxTextCtrl* textCtrl = new wxTextCtrl(backroundPanel, wxID_ANY, "Boo", wxPoint(500, 145), wxSize(200, -1));
 }
