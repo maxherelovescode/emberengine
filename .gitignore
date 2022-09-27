@@ -354,3 +354,6 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 *.tlog
+Libraries/wxWidgets/build/msw/vc_x64_mswud/adv/adv.tlog
+Libraries/wxWidgets/build/msw/vc_x64_mswud/aui/aui.tlog
+Libraries/wxWidgets/build/msw/vc_x64_mswud/base/base.tlog
