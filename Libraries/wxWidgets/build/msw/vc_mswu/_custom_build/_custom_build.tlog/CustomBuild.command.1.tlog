@@ -1,4 +1,4 @@
-^C:\USERS\MAXHE\ONEDRIVE\DOCUMENTS\DEV\C++\LIBRARIES\WXWIDGETS\INCLUDE\WX\MSW\SETUP.H
-copy "C:\Users\maxhe\OneDrive\Documents\dev\C++\Libraries\wxWidgets\include\wx\msw\setup.h" ..\..\lib\vc_lib\mswu\wx\setup.h
-^C:\USERS\MAXHE\ONEDRIVE\DOCUMENTS\DEV\C++\LIBRARIES\WXWIDGETS\INCLUDE\WX\MSW\GENRCDEFS.H
-cl /EP /nologo "C:\Users\maxhe\OneDrive\Documents\dev\C++\Libraries\wxWidgets\include\wx\msw\genrcdefs.h" > "..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h"
+^C:\USERS\MAXHE\ONEDRIVE\DOCUMENTS\DEV\EMBER\LIBRARIES\WXWIDGETS\INCLUDE\WX\MSW\SETUP.H
+copy "C:\Users\maxhe\OneDrive\Documents\dev\Ember\Libraries\wxWidgets\include\wx\msw\setup.h" ..\..\lib\vc_lib\mswu\wx\setup.h
+^C:\USERS\MAXHE\ONEDRIVE\DOCUMENTS\DEV\EMBER\LIBRARIES\WXWIDGETS\INCLUDE\WX\MSW\GENRCDEFS.H
+cl /EP /nologo "C:\Users\maxhe\OneDrive\Documents\dev\Ember\Libraries\wxWidgets\include\wx\msw\genrcdefs.h" > "..\..\lib\vc_lib\mswu\wx\msw\rcdefs.h"
