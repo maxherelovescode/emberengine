@@ -11,3 +11,4 @@ MainFrame::MainFrame(const wxString& title): wxFrame(nullptr, wxID_ANY, title) {
 
 	wxTextCtrl* textCtrl = new wxTextCtrl(backroundPanel, wxID_ANY, "Boo", wxPoint(500, 145), wxSize(200, -1));
 }
+
